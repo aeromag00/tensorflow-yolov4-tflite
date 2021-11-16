@@ -1,0 +1,25 @@
+#VSCode==1.60.0
+#Anaconda==Anaconda3-2021.05
+python==3.7.0
+#Anaconda 호환 라이브러리
+#numpy
+#matplotlib
+#CUDA==10.1u2
+#cuDNN==7.6.5
+tensorflow-gpu==2.3.0
+opencv-python==4.1.1.26
+pillow
+pydot
+#==== youtube 연결
+pafy==0.5.5
+youtube_dl
+#==== dlib 사용
+cmake==3.21.4
+dlib==19.22.1
+#==== known 라이브러리
+absl-py     # FLAGS 사용
+pyinstaller==4.7
+#==== unknown 라이브러리
+lxml
+tqdm
+easydict
