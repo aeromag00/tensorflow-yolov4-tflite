@@ -1,4 +1,4 @@
-# ODYOU v0.1 (Object Detector for YOUTUBE, copyright to BARON System)
+# ODYOU v0.1 (Object Detector for YOUTUBE)
 Reference from tensorflow-yolov4-tflite
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
